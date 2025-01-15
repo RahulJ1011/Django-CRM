@@ -1,0 +1,21 @@
+virt/
+
+# Python cache
+__pycache__/
+
+# Environment variables
+.env
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+
+# Database
+db.sqlite3
+
+# IDE-specific files
+.vscode/
+.idea/
